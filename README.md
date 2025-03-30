@@ -16,7 +16,7 @@
 --Adjust the decision threshold to balance precision and recall, comparing false positives and false negatives among different threshold settings and finally implementing the one where false negatives are not put at the stake of false positives. <br>
 <h1>Evaluation Metrics</h1>
 <br>
-evaluated the model’s performance by plotting metrics such as: <br>
+evaluated the model’s performance by plotting metrics across different threshold settings and using balanced weight classes: <br>
 --Confusion matrix <br>
 --ROC curve <br>
 --Precision-recall curve<br>
