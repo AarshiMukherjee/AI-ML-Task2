@@ -19,5 +19,5 @@
 evaluated the model’s performance by plotting metrics such as: <br>
 --Confusion matrix <br>
 --ROC curve <br>
-Pr--ecision-recall curve<br>
+--Precision-recall curve<br>
 
