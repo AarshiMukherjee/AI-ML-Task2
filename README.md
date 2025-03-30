@@ -12,8 +12,8 @@
 <br>
 --Split the dataset into training and testing sets  80% training, 20% testing to evaluate the model's performance.<br>
 --Used Logistic Regression model to classify Pokemon as Mega-Evolution or Regular.<br>
---Used balanced class weights to address imbalanced classes (Mega Evolutions vs. Regular Pokémon) and ensure the model doesn't favor the majority class.<br>
---Adjust the decision threshold to balance precision and recall, reducing false positives and false negatives.<br>
+--Used balanced class weights to address imbalanced classes (Mega Evolutions vs. Regular Pokemon) and ensure the model doesn't favor the majority class.<br>
+--Adjust the decision threshold to balance precision and recall, comparing false positives and false negatives among different threshold settings and finally implementing the one where false negatives are not put at the stake of false positives. <br>
 <h1>Evaluation Metrics</h1>
 <br>
 evaluated the model’s performance by plotting metrics such as: <br>
