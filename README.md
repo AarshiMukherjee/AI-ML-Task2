@@ -14,7 +14,7 @@
 --Used Logistic Regression model to classify Pokemon as Mega-Evolution or Regular.<br>
 --Use balanced class weights to address imbalanced classes (Mega Evolutions vs. Regular Pokémon) and ensure the model doesn't favor the majority class.<br>
 --Adjust the decision threshold to balance precision and recall, reducing false positives and false negatives.<br>
-<h1>Evaluating the Model</h1>
+<h1>Evaluation Metrics</h1>
 <br>
 evaluated the model’s performance by plotting metrics such as: <br>
 --Confusion matrix <br>
